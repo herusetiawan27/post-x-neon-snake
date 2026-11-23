@@ -1,3 +1,9 @@
+[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-8b5cf6)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![One prompt](https://img.shields.io/badge/built_from-one_prompt-22c55e)](https://github.com/herusetiawan27/post-x-neon-snake)
+
+**Bounty:** [post-x — The agent builds a game from one prompt](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709) · **X post:** [Neon Snake video](https://x.com/deservecorei7/status/2124762257808834799)
+
 # Neon Snake — built from ONE prompt
 
 A polished Snake game in a single HTML file. Open `index.html` in any browser and play — no build step, no libraries.
